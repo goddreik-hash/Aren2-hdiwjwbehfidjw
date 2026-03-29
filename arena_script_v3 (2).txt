@@ -230,7 +230,7 @@ local function getBrainrotRarity(name)
     return BrainrotToRarity[name] or "Common"
 end
 
-local PICKUP_HOLD_DURATION  = 2.0
+local PICKUP_HOLD_DURATION  = 2.5
 local ARRIVAL_THRESHOLD     = 2.0
 local MOVE_TIMEOUT          = 25
 
